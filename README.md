@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá eu me chamo Nicolas 👋
 
-<!--
-**Nicolas07-dev/Nicolas07-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou estudante da Etec e faço Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+- 💻 Atualmente mais focado em:
+<div display='inline'>
+<img width="50" height="50 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="50" height="50 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="50" height="50 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você também pode me encontrar em:
+<a href="https://www.instagram.com/nicol_as08/?next=%2F">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>  
+</a> 
